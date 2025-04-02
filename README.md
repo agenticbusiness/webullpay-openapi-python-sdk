@@ -20,7 +20,7 @@ Subscription to real-time information: Subscribe to order status changes.
 |--------|---------------------------|
 | US     | https://www.webullpay.com |
 
-- Requires Python 3.7 and above.
+- Requires Python 3.8 and above.
 
 ## Interface Protocol
 
